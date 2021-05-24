@@ -10,7 +10,7 @@
         int     20h
 
         section .data
-arrNum  db      01,02,03,04,05,06,07,08,09,10,0xA       ; Arreglo de 10 números
+arrNum  db      01,02,03,04,05,06,07,08,09,12,0xA       ; Arreglo de 10 números
 ctd     equ     2       ; Divisor general
 zero    equ     0       ; Constante cero
 
